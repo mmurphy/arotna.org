@@ -7,6 +7,7 @@ The goal of Arotna is to get you going with creating a doc site using Antora qui
 * http://harelba.github.io/q/[q] csv query tool
 * https://docs.antora.org/[Antora]
 * https://www.ruby-lang.org/en/[Ruby]
+* https://asciidoctor.org/[Asciidoctor]
 
 == Tasks
 
